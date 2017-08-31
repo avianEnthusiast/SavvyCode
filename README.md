@@ -1,9 +1,2 @@
-# ___Cyborg Birds___
-
-___BIRDS___ are pretty *cool*
-
-Watching **them** shed their _feathers_
-
-**most** *of* them have ___WINGS___
-
-- *a haiku by Menkahre*
+# ___Menkahre's SavvyCoders Portfolio Project___
+  Welcome to **my** project! *dont steal*
