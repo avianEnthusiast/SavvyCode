@@ -1,7 +1,34 @@
-#emphatic { 
+#emphatic {
   font-weight: bold;
 }
 
+#content {
+  border-width: 2px;
+  border-color: magenta;
+  border-style: solid;
+  background-color: red;
+}
 .slanted {
   font-style: italic;
+}
+
+#Ponk {
+  color: hotpink;
+}
+
+  .navigation {
+    background-color: transparent;
+  }
+
+.navigation > a {
+    text-decoration: none;
+}
+
+.navigation + div + div {
+    background-color: chartreuse;
+    color: blue;
+}
+
+li:first-child {
+  background-color: magenta;
 }
